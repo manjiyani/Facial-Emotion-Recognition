@@ -18,4 +18,17 @@ Facial emotion recognition using CNN, Tensor flow, haar cascade, Numpy and cv2
   * model_1_alim.tflearn.meta
 
 ## Results
-## Any suggestion and improvements is highly appreciated.
+Here are some results of *singleface.py* and *multiface.py*
+
+![Angry](/results/1.jpg)
+
+![Neutral](/results/2.jpg)
+
+![Happy](/results/3.jpg)
+
+![Surprised](/results/4.jpg)
+
+![Multiface](/results/5.jpg)
+
+
+## Any suggestion and improvement is highly appreciated.
